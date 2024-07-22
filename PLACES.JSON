@@ -1,0 +1,62 @@
+{
+    "New York": {
+        "tourism": [
+            { "name": "Statue of Liberty", "image": "https://example.com/statue_of_liberty.jpg" },
+            { "name": "Central Park", "image": "https://example.com/central_park.jpg" },
+            { "name": "Times Square", "image": "https://example.com/times_square.jpg" }
+        ],
+        "food": [
+            { "name": "Bagels", "image": "https://example.com/bagels.jpg" },
+            { "name": "New York-style pizza", "image": "https://example.com/ny_pizza.jpg" },
+            { "name": "Cheesecake", "image": "https://example.com/cheesecake.jpg" }
+        ]
+    },
+    "California": {
+        "tourism": [
+            { "name": "Disneyland", "image": "https://example.com/disneyland.jpg" },
+            { "name": "Golden Gate Bridge", "image": "https://example.com/golden_gate_bridge.jpg" },
+            { "name": "Hollywood", "image": "https://example.com/hollywood.jpg" }
+        ],
+        "food": [
+            { "name": "Sourdough bread", "image": "https://example.com/sourdough_bread.jpg" },
+            { "name": "In-N-Out Burger", "image": "https://example.com/in_n_out_burger.jpg" },
+            { "name": "Fish tacos", "image": "https://example.com/fish_tacos.jpg" }
+        ]
+    },
+    "Texas": {
+        "tourism": [
+            { "name": "The Alamo", "image": "https://example.com/the_alamo.jpg" },
+            { "name": "Houston Space Center", "image": "https://example.com/houston_space_center.jpg" },
+            { "name": "Big Bend National Park", "image": "https://example.com/big_bend_national_park.jpg" }
+        ],
+        "food": [
+            { "name": "Barbecue", "image": "https://example.com/barbecue.jpg" },
+            { "name": "Chili", "image": "https://example.com/chili.jpg" },
+            { "name": "Tex-Mex", "image": "https://example.com/tex_mex.jpg" }
+        ]
+    },
+    "Florida": {
+        "tourism": [
+            { "name": "Walt Disney World", "image": "https://example.com/walt_disney_world.jpg" },
+            { "name": "Miami Beach", "image": "https://example.com/miami_beach.jpg" },
+            { "name": "Everglades National Park", "image": "https://example.com/everglades_national_park.jpg" }
+        ],
+        "food": [
+            { "name": "Key lime pie", "image": "https://example.com/key_lime_pie.jpg" },
+            { "name": "Cuban sandwich", "image": "https://example.com/cuban_sandwich.jpg" },
+            { "name": "Stone crab", "image": "https://example.com/stone_crab.jpg" }
+        ]
+    },
+    "Illinois": {
+        "tourism": [
+            { "name": "Millennium Park", "image": "https://example.com/millennium_park.jpg" },
+            { "name": "Navy Pier", "image": "https://example.com/navy_pier.jpg" },
+            { "name": "Willis Tower", "image": "https://example.com/willis_tower.jpg" }
+        ],
+        "food": [
+            { "name": "Deep-dish pizza", "image": "https://example.com/deep_dish_pizza.jpg" },
+            { "name": "Chicago-style hot dog", "image": "https://example.com/chicago_hot_dog.jpg" },
+            { "name": "Italian beef sandwich", "image": "https://example.com/italian_beef_sandwich.jpg" }
+        ]
+    }
+}
